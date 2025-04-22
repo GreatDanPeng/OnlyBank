@@ -1,7 +1,5 @@
 # OnlyBank
-A digital bank that provides a range of financial services to customers. I developed this project by following the [Backend Master Class](https://bit.ly/backendmaster) course by [TECH SCHOOL](https://bit.ly/m/techschool).
-
-It will provide APIs for the frontend to do following things:
+A digital bank that provides a range of financial services to customers. I developed this project with APIs for the frontend to do following things:
 
 1. Create and manage bank accounts, which are composed of owner’s name, balance, and currency.
 2. Record all balance changes to each of the account. So every time some money is added to or subtracted from the account, an account entry record will be created.
